@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Complaint Management and Smart City Portal
 
 A production-ready MERN stack portal for civic complaint submission, officer resolution workflows, admin management, analytics, Cloudinary proof images, timeline tracking, and citizen feedback.
@@ -171,7 +170,6 @@ Set `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `ADMIN_NAME`, and `ADMIN_MOBILE` in `backen
 ## Cloudinary Notes
 
 Complaint proof images are optional. Supported formats are `jpg`, `jpeg`, `png`, and `webp`, with a maximum size of 5MB. If Cloudinary variables are missing, complaint creation without images still works.
-=======
 # COMPLAINT-MANAGEMENT-SMART-CITY-PORTAL
 Complaint Management Smart City Portal is a web-based system that allows citizens to submit and track complaints related to city services. It helps administrators manage, update, and resolve complaints efficiently, improving transparency and smart city services.
->>>>>>> 030b2c3669065a08a4f8b34aafc0cff5e247219f
+030b2c3669065a08a4f8b34aafc0cff5e247219f
